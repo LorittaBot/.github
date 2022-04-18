@@ -1,3 +1,3 @@
 <p align="center">
-<img width="100%" src="loritta_code_gh.png">
+<img width="100%" src="https://github.com/LorittaBot/.github/raw/main/profile/loritta_code_gh.png">
 </p>
